@@ -11,10 +11,10 @@ An improved 2D platformer
 Welcome to Dunkin' Buddies. This game is a modified version of the classic Flappy Bird, featuring an exciting new power-up: the Size Adjustment Power-Up. In this version, players can collect power-ups that dynamically adjust the size of the pipes, adding an extra layer of challenge and strategy to the gameplay.
 
 ## FEATURES
-
-Size Adjustment Power-Up: Collect special power-ups to change the size of the pipes dynamically.
-Randomized Power-Up Spawns: Power-ups spawn randomly, providing unexpected challenges during gameplay.
-Classic Flappy Bird Mechanics: Enjoy the familiar one-button control and navigate your bird through the pipes.
+1. Size Adjustment Power-Up: Collect special power-ups to change the size of the pipes dynamically.
+2. Randomized Power-Up Spawns: Power-ups spawn randomly, providing unexpected challenges during gameplay.
+3. Classic Flappy Bird Mechanics: Enjoy the familiar one-button control and navigate your bird through the pipes.
+4. Music to show the different points such as when the bird goes through the pipe and when the bird dies when its 'Game Over'
 
 ## HOW TO PLAY
 
